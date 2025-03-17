@@ -1,11 +1,13 @@
-# Example marketplace for Cosmos
+# Cosmos Creative Cloud
 
-This repo is an example of a marketplace for Cosmos.
+## Marketplace with focus on creativity, design & content creation for Cosmos
+
+This repo is a marketplace for [Cosmos](https://github.com/azukaar/Cosmos-Server) mainly focusing on applications/services which are usefull for content creators, designers, or creatives in general.
+
+## How to contribute
+
+You are welcome to contribute to this repo and add your own apps/services by making a pull request. Just create a folder named like your own app in the servapps-folder, either containing a cosmos-compose.json, or a docker-compose.yml file. Also create a folder with your screenshots and add an icon.
 
 # How to use
 
-Fork this repo, and then setup the config.json file with your own data. This uses github actions and github pages to deploy the website. Make sure those are enabled in your repo. The two URLs in the config are URL to your Github Pages.
-
-You can add your own app in the folder, either using cosmos-compose.json files, or docker-compose.yml files.
-
-For example, this repo is `https://github.com/azukaar/cosmos-marketplace-example` but pages are under `https://azukaar.github.io/cosmos-marketplace-example`. In order to add this repo to Cosmos you need to add `https://azukaar.github.io/cosmos-marketplace-example/servapps.json` to the list of sources in the Cosmos settings.
+In order to add this repo to Cosmos you need to add `https://dokupendium.github.io/cosmos-creative-cloud/servapps.json` to the list of sources in your Appstore.
