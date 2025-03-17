@@ -1,5 +1,3 @@
-# Cosmos Creative Cloud
-
 This repo is a marketplace for a great selfhosting server named [Cosmos](https://github.com/azukaar/Cosmos-Server). It is mainly focusing on applications/services which are usefull for content creators, designers, or creatives in general. For other marketplace-sources have a look at [Awesome-Cosmos-Cloud](https://github.com/azukaar/awesome-cosmos-cloud).
 
 ## How to use
