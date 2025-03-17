@@ -4,7 +4,7 @@
 
 This repo is a marketplace for [Cosmos](https://github.com/azukaar/Cosmos-Server) mainly focusing on applications/services which are usefull for content creators, designers, or creatives in general.
 
-# How to use
+## How to use
 
 Just add `https://dokupendium.github.io/cosmos-creative-cloud/servapps.json` to the list of sources in your Cosmos-Appstore.
 
